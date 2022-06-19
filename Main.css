@@ -73,6 +73,6 @@ body {
 
   border: none;
 }
-.card a:hover {
+.card input[type="submit"]:hover {
   background-color: #c00def;
 }
